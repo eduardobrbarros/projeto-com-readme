@@ -1,4 +1,4 @@
-#projeto com README
+# projeto com README
 um projeto de teste com um arquivo README :)
 
 [<img src="./gif.gif" alt="gif de exemplo">]
